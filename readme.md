@@ -23,7 +23,7 @@ Agora basta instalar as dependências com o comando:
 
 npm install
 
-Depois de instalar as dependências instale o pacote: 
+Depois de instalar as dependências instale o pacote de roteamento para React: 
 
 
 npm install react-router-dom
