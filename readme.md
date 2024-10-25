@@ -24,7 +24,7 @@ Agora basta instalar as dependências com o comando:
 npm install
 
 
-3º: Rodar o projeot:
+3º: Rodar o projeto:
 Por fim para executar o projeto basta executar o comando:
 
 npm run dev
