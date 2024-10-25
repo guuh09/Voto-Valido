@@ -1,6 +1,8 @@
 Site do projeto Voto Válido
+
 Como rodar o projeto:
 1º: Instalar o node.js:
+
 Para instalar o node.js basta acessar o site: https://nodejs.org/en/download/package-manager
 
 A instalação pode ser conferida com o seguinte comando no terminal
