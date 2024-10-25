@@ -23,6 +23,11 @@ Agora basta instalar as dependências com o comando:
 
 npm install
 
+Depois de instalar as dependências instale o pacote: 
+
+
+npm install react-router-dom
+
 
 3º: Rodar o projeto:
 Por fim para executar o projeto basta executar o comando:
